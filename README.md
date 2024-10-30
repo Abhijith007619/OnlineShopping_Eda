@@ -1,0 +1,3 @@
+This is a EDA project file that shows the details of online shopping. It analyze the online shopping done in a year where looks after different categories such as most purchased products,products with high delivery chargess etc...
+By analyzing the data we can make future plans for the increasing of profit or production.
+By visualising the chart we can get clarification for the the chages in the shopping ecosystem
